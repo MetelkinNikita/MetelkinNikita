@@ -34,7 +34,7 @@ I'm a **Data Analyst** with a strong background in data engineering, hypothesis 
   Completed advanced simulation of A/B testing scenarios: test sensitivity, metric selection, CUPED, traffic split, confidence intervals.  
   *Tools: Pandas, SciPy, Seaborn*
   
-- [💳 Digital Lending Funnel Analysis](https://github.com/nikitametelkin/digital-lending-funnel)  
+- [💳 Digital Lending Funnel Analysis](https://github.com/MetelkinNikita/Tableau_digital_lending)  
   Synthetic dataset project to analyze user behavior in a digital lending funnel. Includes Tableau dashboards for conversion, fraud, and retention metrics.
   *Tools: Tableau, SQL, Python*
   
