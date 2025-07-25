@@ -32,11 +32,11 @@ I'm a **Data Analyst** with a strong background in data engineering, hypothesis 
 
 - [🔬 A/B Test Framework](https://github.com/MetelkinNikita/ab-tests)  
   Completed advanced simulation of A/B testing scenarios: test sensitivity, metric selection, CUPED, traffic split, confidence intervals.  
-  *Tools: Pandas, SciPy, Seaborn*
+  *Tools: Pandas, NumPy, SciPy, Seaborn, Matplotlib
   
 - [💳 Digital Lending Funnel Analysis](https://github.com/MetelkinNikita/Tableau_digital_lending)  
   Synthetic dataset project to analyze user behavior in a digital lending funnel. Includes Tableau dashboards for conversion, fraud, and retention metrics.
-  *Tools: Tableau, SQL, Python*
+  *Tools: Tableau, Python*
   
 - [📈 EdTech Platform Growth Analysis](https://sigma-center.ru/textbook_math)  
   Educational platform that scaled to **80,000+** organic users through product and content analytics.
